@@ -24,7 +24,7 @@
     　<a href="#"><img src="https://img.shields.io/badge/-MongoDB-white?logo=mongodb&logoColor=black" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-Figma-white?logo=figma&logoColor=black" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-Jira-white?logo=jira&logoColor=black" /></a>
-  
+    ![](https://komarev.com/ghpvc/?username=gtapp1&abbreviated=true)
   </div>
 
 
@@ -42,4 +42,4 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=gtapp1&abbreviated=true)
+
