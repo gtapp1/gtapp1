@@ -26,7 +26,7 @@
     <a href="#"><img src="https://img.shields.io/badge/-Jira-white?logo=jira&logoColor=black" /></a>
   </div>
 
-   ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+   ![](https://komarev.com/ghpvc/?username=gtapp1&color=gray)
 
 
 
