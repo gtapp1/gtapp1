@@ -8,8 +8,7 @@
     <a href="#"><img src="https://img.shields.io/badge/-Python-white?logo=python&logoColor=black" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-HTML-white?logo=html5&logoColor=black" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=black" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Vite-white?logo=vite&logoColor=black" /> </a>
-  </div>
+    <a href="#"><img src="https://img.shields.io/badge/-Vite-white?logo=vite&logoColor=black" /></a>
   <div>
     <a href="#"><img src="https://img.shields.io/badge/-React-white?logo=react&logoColor=black" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-Tailwind-white?logo=tailwind%20css&logoColor=black" /></a>
@@ -24,6 +23,7 @@
     <a href="#"><img src="https://img.shields.io/badge/-MongoDB-white?logo=mongodb&logoColor=black" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-Figma-white?logo=figma&logoColor=black" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-Jira-white?logo=jira&logoColor=black" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Vercel-white?logo=vercel&logoColor=black" /></a>
   </div>
 
    ![](https://komarev.com/ghpvc/?username=gtapp1&color=grey)
