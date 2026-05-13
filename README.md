@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=500&size=16&letterSpacing=-1px&duration=2500&pause=1000&color=C2F7E7&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&height=80&lines=wasupp%2C+kaibigan...;i'm+gerald%2C+an+IT+student." alt="Typing SVG" /></a>
 <div><img height="164" width="164" href="#" src="https://raw.githubusercontent.com/gtapp1/gtapp1/main/readmegif.gif" align="left" /></div>
   <div>
     <a href="#"><img src="https://img.shields.io/badge/-Javascript-white?logo=javascript&logoColor=black" /></a>
